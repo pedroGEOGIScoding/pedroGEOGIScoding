@@ -22,7 +22,6 @@ My contribution graph visualizes my activity over the past year, including commi
   <a href="https://github.com/pedroGEOGIScoding">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroGEOGIScoding&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroGEOGIScoding&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-    <img height="180em" src="https://streak-stats.demolab.com?user=pedroGEOGIScoding&theme=algolia&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
