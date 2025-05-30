@@ -41,12 +41,3 @@ My contribution graph visualizes my activity over the past year, including commi
 
 - **Version Control:** Git & GitHub for all projects, leveraging branching, PRs, and code reviews.
 - **Agile & SCRUM:** Used to working in fast-paced, agile teams with modern project management tools.
-[5] https://www.texau.com/automations/github/github-profile-scraper
-[6] https://livablesoftware.com/tools-mine-analyze-github-git-software-data/
-[7] https://graphite.dev/guides/github-statistics-and-analytics
-[8] https://profile-summary-for-github.com
-[9] https://docs.github.com/articles/showing-an-overview-of-your-activity-on-your-profile
-[10] https://valyfy.com/githubanalysis
-
----
-Answer from Perplexity: pplx.ai/share
