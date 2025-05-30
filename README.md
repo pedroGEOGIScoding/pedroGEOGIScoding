@@ -1,5 +1,5 @@
 ## Hi there 👋👋👋👋🗺️
-![image](https://github.com/user-attachments/assets/5ce64f9b-5816-463b-bd3c-f528c89a589f)
+![Earth-spinning-rotating-animation-40](https://github.com/user-attachments/assets/7218878a-28be-4416-85e7-ecc6c5913bf2)
 
 
 Welcome to my GitHub profile! Here you'll find a showcase of my experience, projects, and activity as a passionate FullStack Developer. I focus on building robust web applications, contributing to open source, and continuously improving my skills across the stack.
