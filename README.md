@@ -36,16 +36,16 @@ My contribution graph visualizes my activity over the past year, including commi
 
 ### **Key GitHub Metrics**
 
-| Metric                  | Value (Example)    | Description                                                         |
-|-------------------------|--------------------|---------------------------------------------------------------------|
-| Total Contributions     | 1,250+             | Commits, PRs, issues, discussions in public & private repos         |
-| Top Languages           | JavaScript, Python | Most frequently used languages across repositories                  |
-| Repositories Contributed| 35+                | Number of repositories with active participation                    |
-| Pull Requests Merged    | 210                | PRs accepted into main branches                                     |
-| Issues Opened           | 80                 | Issues created for bug reports, enhancements, or documentation      |
-| Code Reviews            | 60                 | PR reviews and feedback provided to collaborators                   |
+### ⚙️ GitHub Analytics
 
-> *You can generate and visualize these stats using tools like Metrics, OctoProfile, or GitHub Insights[1][3][7].*
+<p align="center">
+  <a href="https://github.com/borizSam">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=borizSam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borizSam&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+  </a>
+</p>
+
+---
 
 ---
 
