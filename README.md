@@ -1,12 +1,17 @@
 ## Hi there 👋🗺️👋🗺️
-<table style="border: none;">
+<table height="200em">
   <tr>
     <td style="border: none; vertical-align: middle;">
       <img src="https://github.com/user-attachments/assets/2c679e1e-73a9-4662-88df-d29f50b50dd8" alt="earth-spinning-rotating-animation-22" width="120"/>
     </td>
-    <td style="border: none; vertical-align: middle;">
-      <b>Welcome to my GitHub profile!</b><br>
-      I am Pedro, and here you'll find a showcase of my experience, projects, and activity as a passionate FullStack Developer. I focus on building robust web applications, contributing to open source, and continuously improving my skills across the stack.
+    <td width="320">
+      <div>
+        <b>Welcome to my GitHub profile!</b><br>
+        Here you'll find a showcase of my experience, projects, and activity as a passionate FullStack Developer.
+      </div>
+    </td>
+    <td>
+       <img height="180em" src="https://streak-stats.demolab.com?user=pedroGEOGIScoding&theme=algolia&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -17,6 +22,7 @@ My contribution graph visualizes my activity over the past year, including commi
   <a href="https://github.com/pedroGEOGIScoding">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroGEOGIScoding&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroGEOGIScoding&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=pedroGEOGIScoding&theme=algolia&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
