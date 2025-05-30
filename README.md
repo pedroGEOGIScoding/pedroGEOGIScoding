@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm a FullStack Developer
+# 👋 Hi, I'm a Junior FullStack Developer
 
 Welcome to my GitHub profile! Here you'll find a showcase of my experience, projects, and activity as a passionate FullStack Developer. I focus on building robust web applications, contributing to open source, and continuously improving my skills across the stack.
 
@@ -9,8 +9,8 @@ Welcome to my GitHub profile! Here you'll find a showcase of my experience, proj
 ## **About Me**
 
 - **Role:** FullStack Developer
-- **Expertise:** JavaScript (Node.js, React), TypeScript, Python, SQL/NoSQL, REST & GraphQL APIs, CI/CD, Cloud (AWS/Azure)
-- **Interests:** Scalable architectures, DevOps, open source, UI/UX, automation
+- **Expertise:** JavaScript (React), TypeScript, Java (Spring Boot), Python, SQL/NoSQL (DynamoDb), REST APIs, CI/CD, Cloud (AWS)
+- **Interests:** Scalable architectures, Backend, Open source, Spatial data visualisation, UI/UX, automation
 
 ---
 
@@ -18,11 +18,8 @@ Welcome to my GitHub profile! Here you'll find a showcase of my experience, proj
 
 Here are some of my highlighted repositories:
 
-- **Project A:** Modern MERN stack web app with real-time features
-- **Project B:** Microservices-based e-commerce backend (Node.js, Docker, MongoDB)
-- **Project C:** Open source React UI component library
-
-*(Check the Pinned section on my profile for more!)*
+- **Project A:** Several WebApps focused in client and service management focused on CRUD tasks 
+- **Project B:** Plane Management App with flight visualisation with leaflet tools
 
 ---
 
@@ -30,7 +27,7 @@ Here are some of my highlighted repositories:
 
 ### **Contribution Graph**
 
-My contribution graph visualizes my activity over the past year, including commits, pull requests, issues, and discussions. It highlights periods of high productivity and consistent engagement with both personal and collaborative projects[4][7].
+My contribution graph visualizes my activity over the past year, including commits, pull requests, issues, and discussions. It highlights periods of high productivity and consistent engagement with both personal and collaborative projects.
 
 > ![GitHub Contribution Graph](https://github.com/username/username/raw/main badge can be generated with [Metrics](https://github.com/lowlighter/metrics) or similar tools[1].)*
 
@@ -51,7 +48,7 @@ My contribution graph visualizes my activity over the past year, including commi
 
 ## **Analytics & Insights**
 
-- **Consistent Contributor:** Maintained steady contribution streaks, demonstrating commitment and reliability[4][7].
+- **Consistent Contributor:** Maintained steady contribution streaks, demonstrating commitment and reliability.
 - **Collaboration:** Regularly open pull requests and participate in code reviews, fostering a collaborative development environment.
 - **Diverse Tech Stack:** Active in projects using various frameworks and languages, reflecting adaptability as a FullStack Developer.
 - **Popular Repositories:** Some repositories have high star and fork counts, indicating community interest and adoption.
