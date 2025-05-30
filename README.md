@@ -1,8 +1,15 @@
-## Hi there 👋👋👋👋🗺️
-![Earth-spinning-rotating-animation-40](https://github.com/user-attachments/assets/7218878a-28be-4416-85e7-ecc6c5913bf2)
-
-
-Welcome to my GitHub profile! Here you'll find a showcase of my experience, projects, and activity as a passionate FullStack Developer. I focus on building robust web applications, contributing to open source, and continuously improving my skills across the stack.
+## Hi there 👋🗺️👋🗺️
+<table style="border: none;">
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <img src="https://github.com/user-attachments/assets/2c679e1e-73a9-4662-88df-d29f50b50dd8" alt="earth-spinning-rotating-animation-22" width="120"/>
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>Welcome to my GitHub profile!</b><br>
+      I am Pedro, and here you'll find a showcase of my experience, projects, and activity as a passionate FullStack Developer. I focus on building robust web applications, contributing to open source, and continuously improving my skills across the stack.
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ GitHub Analytics
 My contribution graph visualizes my activity over the past year, including commits, pull requests, issues, and discussions. It highlights periods of high productivity and consistent engagement with both personal and collaborative projects.
