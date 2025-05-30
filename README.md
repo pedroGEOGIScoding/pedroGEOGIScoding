@@ -14,7 +14,7 @@
 ### ⚙️ GitHub Analytics
 My contribution graph visualizes my activity over the past year, including commits, pull requests, issues, and discussions. It highlights periods of high productivity and consistent engagement with both personal and collaborative projects.
 <p align="center">
-  <a href="https://github.com/borizSam">
+  <a href="https://github.com/pedroGEOGIScoding">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=borizSam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borizSam&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
   </a>
