@@ -10,9 +10,6 @@
         Here you'll find a showcase of my experience, projects, and activity as a passionate FullStack Developer.
       </div>
     </td>
-    <td>
-       <img height="180em" src="https://streak-stats.demolab.com?user=pedroGEOGIScoding&theme=algolia&hide_border=true" alt="GitHub Streak" />
-    </td>
   </tr>
 </table>
 
