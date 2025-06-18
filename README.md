@@ -70,9 +70,9 @@
 
 ### 🌐 Let’s Connect!
 
-- **LinkedIn:** [Your LinkedIn](#)
-- **Portfolio:** [Your Portfolio](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [https://www.linkedin.com/in/pedromartinezduran/](#)
+- **Portfolio:** [https://pedrogeogisdev.com/](#)
+- **Email:** [pedromartinezduran@gmail.com](mailto:your.email@example.com)
 
 ---
 
