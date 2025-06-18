@@ -7,7 +7,7 @@
     <td width="320">
       <div>
         <b>Welcome to my GitHub profile!</b><br>
-        Here you'll find a showcase of my experience, projects, and activity as a passionate FullStack Developer.
+        Here you'll find a showcase of my experience, projects, and activity as a passionate Junior FullStack GIS Developer.
       </div>
     </td>
   </tr>
