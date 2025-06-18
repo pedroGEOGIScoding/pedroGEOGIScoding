@@ -23,7 +23,7 @@ My contribution graph visualizes my activity over the past year, including commi
 </p>
 
 ## **About Me**
-- **Role:** Junior FullStack Developer and GIS Developer
+- **Role:** Junior FullStack GIS Developer
 - **Expertise:** JavaScript (React), TypeScript (Vaadin Hilla), Java (Spring Boot), Python, SQL/NoSQL (DynamoDb), REST APIs, Cloud (AWS Services)
 - **Interests:** Cartography and Web Mapping (Leaflet, Mapbox, OpenLayers), open source data, spatial analytics, spatial data visualization, Scalable architectures, Backend
 
