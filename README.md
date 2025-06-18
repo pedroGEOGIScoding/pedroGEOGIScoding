@@ -1,20 +1,47 @@
-## Hi there 👋🗺️👋🗺️
-<table height="200em">
+## Hi there! 👋🗺️
+
+<table>
   <tr>
-    <td style="border: none; vertical-align: middle;">
-      <img src="https://github.com/user-attachments/assets/2c679e1e-73a9-4662-88df-d29f50b50dd8" alt="earth-spinning-rotating-animation-22" width="120"/>
+    <td align="center" width="130">
+      <img src="https://github.com/user-attachments/assets/2c679e1e-73a9-4662-88df-d29f50b50dd8" alt="Earth spinning animation" width="100"/>
     </td>
-    <td width="320">
-      <div>
-        <b>Welcome to my GitHub profile!</b><br>
-        Here you'll find a showcase of my experience, projects, and activity as a passionate Junior FullStack GIS Developer.
-      </div>
+    <td>
+      <b>Welcome to my GitHub profile!</b><br>
+      I'm <b>Pedro</b>, a passionate <b>FullStack GIS Developer</b> with a love for maps, data, and building impactful web applications. Here you’ll find my latest projects, contributions, and insights into the world of geospatial development.
     </td>
   </tr>
 </table>
 
-### ⚙️ GitHub Analytics
-My contribution graph visualizes my activity over the past year, including commits, pull requests, issues, and discussions. It highlights periods of high productivity and consistent engagement with both personal and collaborative projects.
+---
+
+### 🚀 About Me
+
+- **🌍 Role:** Junior FullStack GIS Developer  
+- **🛠️ Tech Stack:**  
+  - **Frontend:** JavaScript (React), TypeScript (Vaadin Hilla)
+  - **Backend:** Java (Spring Boot), Python
+  - **Databases:** SQL/NoSQL (DynamoDB)
+  - **APIs:** RESTful services
+  - **Cloud:** AWS Services
+- **🗺️ GIS Interests:** Cartography, Web Mapping (Leaflet, Mapbox, OpenLayers), spatial analytics, open source data, scalable architectures, and backend development.
+- **💡 What drives me:** Turning geospatial data into actionable insights and beautiful, interactive web experiences.
+
+---
+
+### 🏆 Featured Projects
+
+- **🚗 Rental Car WebApp:**  
+  Full-featured CRUD application for client and service management, streamlining rental operations.
+
+- **✈️ Plane Management & Visualization:**  
+  App for managing flights with real-time visualization using Leaflet and advanced mapping tools.
+
+> Explore more in my [pinned repositories](https://github.com/pedroGEOGIScoding?tab=repositories)!
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/pedroGEOGIScoding">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroGEOGIScoding&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -22,25 +49,31 @@ My contribution graph visualizes my activity over the past year, including commi
   </a>
 </p>
 
-## **About Me**
-- **Role:** Junior FullStack GIS Developer
-- **Expertise:** JavaScript (React), TypeScript (Vaadin Hilla), Java (Spring Boot), Python, SQL/NoSQL (DynamoDb), REST APIs, Cloud (AWS Services)
-- **Interests:** Cartography and Web Mapping (Leaflet, Mapbox, OpenLayers), open source data, spatial analytics, spatial data visualization, Scalable architectures, Backend
+---
 
-## **Pinned Projects**
-Here are some of my highlighted repositories:
+### 📈 Insights & Highlights
 
-- **Project A:** Rental Car WebApp and other WebApps focused in client and service management focused on CRUD tasks 
-- **Project B:** Plane Management App with flight visualisation with leaflet tools
+- **Consistent Contributor:** Maintained steady contribution streaks—demonstrating commitment and reliability.
+- **Team Player:** Active in code reviews and collaborative projects, fostering a positive development culture.
+- **Versatile Developer:** Comfortable across the stack, from backend APIs to interactive map visualizations.
+- **Community Impact:** Several repos with high stars and forks, reflecting community engagement.
 
-## **Analytics & Insights**
+---
 
-- **Consistent Contributor:** Maintained steady contribution streaks, demonstrating commitment and reliability.
-- **Collaboration:** Regularly open pull requests and participate in code reviews, fostering a collaborative development environment.
-- **Diverse Tech Stack:** Active in projects using various frameworks and languages, reflecting adaptability as a FullStack Developer.
-- **Popular Repositories:** Some repositories have high star and fork counts, indicating community interest and adoption.
+### 🛠️ How I Work
 
-## **How I Work**
+- **Version Control:** Git & GitHub—branching, pull requests, and thorough code reviews.
+- **Agile Mindset:** Experienced in SCRUM and agile workflows, using modern project management tools.
+- **Continuous Learning:** Always exploring new geospatial tech, frameworks, and best practices.
 
-- **Version Control:** Git & GitHub for all projects, leveraging branching, PRs, and code reviews.
-- **Agile & SCRUM:** Used to working in fast-paced, agile teams with modern project management tools.
+---
+
+### 🌐 Let’s Connect!
+
+- **LinkedIn:** [Your LinkedIn](#)
+- **Portfolio:** [Your Portfolio](#)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+_Thanks for visiting! If you share a passion for GIS, web development, or open source, let’s connect and collaborate!_
