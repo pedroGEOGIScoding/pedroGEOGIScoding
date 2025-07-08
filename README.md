@@ -30,6 +30,9 @@
 
 ### 🏆 Featured Projects
 
+- **✈🗺️ Dashboard to track event participants.
+  Click here to see the app alive deployed in Railway.com: https://dashboardfest2fun-production.up.railway.app/
+
 - **🚗 Rental Car WebApp:**  
   Full-featured CRUD application for client and service management, streamlining rental operations.
 
