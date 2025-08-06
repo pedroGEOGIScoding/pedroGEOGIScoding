@@ -35,9 +35,11 @@
 
 - **🚗 Rental Car WebApp:**  
   Full-featured CRUD application for client and service management, streamlining rental operations.
+  Click here to see the app alive deployed in Railway.com: https://rentingcar-production.up.railway.app/
 
 - **✈️ Plane Management & Visualization:**  
   App for managing flights with real-time visualization using Leaflet and advanced mapping tools.
+  Click here to see the app alive deployed in GitHub Actions: https://pedrogeogiscoding.github.io/Flight_Tracker_PedroGeoGISdev/
 
 > Explore more in my [pinned repositories](https://github.com/pedroGEOGIScoding?tab=repositories)!
 
